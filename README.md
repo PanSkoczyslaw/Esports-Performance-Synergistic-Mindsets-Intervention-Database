@@ -1,5 +1,6 @@
 # Esports-Performance-Synergistic-Mindsets-Intervention-Database
-**https://osf.io/4nzsv/**
+**Processed databases and raw files for each study participant can be found here: [https://osf.io/4nzsv/](https://osf.io/4nzsv/)**
+
 Database created for the scientific project **"Esports Performance & Synergistic Mindsets Intervention"**  
 DOI: [10.17605/OSF.IO/4NZSV](https://doi.org/10.17605/OSF.IO/4NZSV).
 
