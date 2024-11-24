@@ -1,5 +1,5 @@
 # Esports-Performance-Synergistic-Mindsets-Intervention-Database
-
+https://osf.io/4nzsv/
 Database created for the scientific project "Esports Performance & Synergistic Mindsets Intervention" DOI: 10.17605/OSF.IO/4NZSV.
 The data were collected from study participants. Each participant attended two laboratory sessions where their physiological parameters were measured during laboratory tasks. Subsequently, for two weeks, the participants received daily tasks to complete. After two weeks, they were invited to the second laboratory session, where their physiological parameters were measured again during a series of highly intensive and potentially stress-inducing tasks.
 
